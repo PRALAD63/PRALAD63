@@ -1,24 +1,24 @@
 <h1 align="center">Hi there 👋, I'm Pralad Yadav</h1>
-<h3 align="center">🌟 A passionate Full-Stack Developer from From Nepal</h3>
+<h3 align="center">🌟 A passionate Full-Stack Developer from Nepal</h3>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0bf134e2-c0ba-488b-bbd4-9300f2f77871" width="400" alt="profile banner"/>
+  <img src="https://github.com/user-attachments/assets/0bf134e2-c0ba-488b-bbd4-9300f2f77871" width="500" alt="profile banner"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
+  <img src="https://komarev.com/ghpvc/?username=PRALAD63&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🔭 I’m currently working on **[Your Project or Company]**
-- 🌱 I’m learning **[Tech you're learning, e.g., Rust, Machine Learning]**
-- 👯 I’m looking to collaborate on **[Projects or ideas]**
-- 💬 Ask me about **[Your favorite topics]**
-- 📫 How to reach me: **[Your email or LinkedIn]**
-- ⚡ Fun fact: *[A quirky fact about you]*
+- 🔭 I’m currently working on **exciting full-stack projects using MERN stack and Python**
+- 🌱 I’m learning **TypeScript and cloud deployment with AWS**
+- 👯 I’m looking to collaborate on **open-source projects and startups**
+- 💬 Ask me about **JavaScript, React, Node.js, and web development**
+- 📫 How to reach me: **yadavpralad955@gmail.com**
+- ⚡ Fun fact: *I love building things that make people's lives easier!*
 
 ---
 
@@ -53,11 +53,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark" alt="yourusername's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PRALAD63&show_icons=true&theme=github_dark" alt="Pralad's GitHub stats"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=github-dark" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PRALAD63&theme=github-dark" alt="GitHub Streak"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=github_dark" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRALAD63&layout=compact&theme=github_dark" alt="Top Languages"/>
 </p>
 
 ---
@@ -65,13 +65,13 @@
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://twitter.com/yourhandle" target="blank">
+  <a href="https://twitter.com/praladyadav" target="blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" alt="twitter"/>
   </a>
-  <a href="https://linkedin.com/in/yourprofile" target="blank">
+  <a href="https://linkedin.com/in/praladyadav" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
-  <a href="mailto:youremail@example.com" target="blank">
+  <a href="mailto:praladyadav@example.com" target="blank">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="email"/>
   </a>
 </p>
